@@ -77,6 +77,8 @@ main {
 .container__btn a {
     text-decoration: none;
     color: #1a91da;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
 }
 
 .container__btn.btn--blue {
@@ -85,6 +87,8 @@ main {
 
 .container__btn.btn--blue a {
     color: #ffffff;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
 }
 
 /* Footer */
